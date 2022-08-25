@@ -1,14 +1,18 @@
-# Fluent Emoji
+# WordPress Fluent Emoji
+Switch your WordPress site from Twemoji to Fluent Emoji.
+
+## Fluent Emoji
 
 Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft.
 
 ![Fluent Emoji](art/readme_banner.webp)
 
-## Contact
+## For using
+Download and install: [latest release](#)  
+The plugin file size may exceed your PHP maximum upload size setting. You should upload this plugin directory manually to `wp-content/plugins/`
 
-Please feel free to [open a GitHub issue](https://github.com/microsoft/fluentui-emoji/issues/new) and assign to the following points of contact with questions or requests.
-
-- Jason Custer([@jasoncuster](https://github.com/jasoncuster)) / Spencer Nelson([@spencer-nelson](https://github.com/spencer-nelson)) - Design
+To generate the plugin by yourself:  
+run `node generater.js` in project directory (Requires Node.js runtime)
 
 ## Code of Conduct
 
