@@ -12,7 +12,7 @@ Download and install: [latest release](#)
 The plugin file size may exceed your PHP maximum upload size setting. You should upload this plugin directory manually to `wp-content/plugins/`
 
 To generate the plugin by yourself:  
-run `node generater.js` in project directory (Requires Node.js runtime)
+run `node generator.js` in project directory (Requires Node.js runtime)
 
 ## Code of Conduct
 
