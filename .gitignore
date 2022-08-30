@@ -107,5 +107,6 @@ dist
 **/.DS_Store
 
 # generated file
-# plugin/assets/SVG
-# plugin/assets/PNG
+plugin/assets/SVG
+plugin/assets/PNG
+*.php
